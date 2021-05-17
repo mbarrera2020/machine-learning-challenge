@@ -15,12 +15,10 @@ Date: 05/16/2021
 
 2) Random Forest
      Training Data Score: 1.0
-     Testing Data Score: 0.9021739130434783
-     Hyperparameter tuning: 0.8929969654851222
+     Hyperparameter tuning: 0.8920429489371919
 
 3) KNN
-     Initial test data accuracy: 0.828
-     Hyperparameter tuning: 0.82128217349857
-     Test data accuracy: 0.8243707093821511
+     Initial k=9 Test Acc: 1.000
+     Hyperparameter tuning: 0.9640316205533598
      ** KNN point is at 9 where it stabilizes.
      
